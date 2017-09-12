@@ -34,6 +34,7 @@ li a:hover {
 	right:20px;
 }
 h1 {
+	position:fixed;
 	margin-right:20px;
 	float:right;
 }
