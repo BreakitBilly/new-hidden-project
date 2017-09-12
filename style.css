@@ -1,0 +1,80 @@
+body,html{
+	margin-top: 0px;
+	margin-left: 0px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	background-color: black;
+	color:white;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #000;
+}
+
+li a {
+    display: block;
+    padding:0;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #f1f1f1;
+	color: black;
+}
+
+#bodymain{
+	width:40%;
+	border: 1px solid white;
+	color:white;
+	position:fixed;
+	top:60px;
+	right:20px;
+}
+h1 {
+	margin-right:20px;
+	float:right;
+}
+#twitter{
+	width:30%;
+	height:100px;
+}
+
+#newsbox{
+	width:40%;
+	height: 50%;
+	border: 1px solid white;
+	color:white;
+	position:fixed;
+	top:60px;
+	right:20px;
+	overflow: scroll;
+}
+#specs{
+	width:40%;
+	height: 100px;
+	border: 1px solid white;
+	color:white;
+	position:fixed;
+	top:450px;
+	right:20px;
+}
+#bio{
+width:40%;
+	height: 150px;
+	border: 1px solid white;
+	color:white;
+	position:fixed;
+	top:60px;
+	right:20px;
+}		
+#contact{
+	text-align: right;
+	float:right;
+	font-size: 30px;
+}
+#downloads{
+	text-align: right;
+}
